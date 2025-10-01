@@ -1,6 +1,6 @@
 # jpa01-max-changg
 
-Deployed at: [https://jpa01-replace-me.dokku-xx.cs.ucsb.edu](https://jpa01-max-changg.dokku-04.cs.ucsb.edu/)
+Deployed at: https://jpa01-max-changg.dokku-04.cs.ucsb.edu/
 
 
 # About this repo
